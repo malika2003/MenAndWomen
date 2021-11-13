@@ -38,7 +38,6 @@ public class Main {
         women.add("Сайкал");
 
         Collections.reverse(women);
-        System.out.println(women);
 
         men.addAll(women);
 
